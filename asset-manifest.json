@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Alyra-Test-Dapp/static/css/main.a1f0d5c1.chunk.css",
-    "main.js": "/Alyra-Test-Dapp/static/js/main.7bdfed9c.chunk.js",
-    "main.js.map": "/Alyra-Test-Dapp/static/js/main.7bdfed9c.chunk.js.map",
+    "main.js": "/Alyra-Test-Dapp/static/js/main.ca6cd119.chunk.js",
+    "main.js.map": "/Alyra-Test-Dapp/static/js/main.ca6cd119.chunk.js.map",
     "runtime-main.js": "/Alyra-Test-Dapp/static/js/runtime-main.3ebe118a.js",
     "runtime-main.js.map": "/Alyra-Test-Dapp/static/js/runtime-main.3ebe118a.js.map",
     "static/js/2.a4b431d7.chunk.js": "/Alyra-Test-Dapp/static/js/2.a4b431d7.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.3ebe118a.js",
     "static/js/2.a4b431d7.chunk.js",
     "static/css/main.a1f0d5c1.chunk.css",
-    "static/js/main.7bdfed9c.chunk.js"
+    "static/js/main.ca6cd119.chunk.js"
   ]
 }
