@@ -6,7 +6,7 @@ const INFURA_ID = process.env.INFURA_ID;
 const GOERLI_URL="https://goerli.infura.io/v3/6cf8dddd247f462c8db6bf624bc7e2cf";
 
 module.exports = {
-  contracts_build_directory: "../client/src/contrats",
+  contracts_build_directory: "../client/src/contracts",
   networks: {
     development: {
       host: "127.0.0.1",     // Localhost (default: none)
